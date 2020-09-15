@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131_020X_040X
+#  Project 1 - Maryland Football: Maryland Football
+
+courseName=CMSC131_020X_040X
+semester=201908
+projectNumber=1 - Maryland Football
+courseKey=42d6a754a7993f06
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2019
+submitURL=https://submit.cs.umd.edu:443/fall2019/eclipse/SubmitProjectViaEclipse
